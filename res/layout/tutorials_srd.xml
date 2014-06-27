@@ -1,0 +1,199 @@
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="horizontal" 
+    android:background="@drawable/spacebackground"
+    android:columnCount="1"
+>
+
+    <TextView
+        android:id="@+id/tvRadarTut"
+        android:text="@string/tvtxtRadarTut"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:layout_gravity="center_horizontal" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:orientation="horizontal">
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bgain1"
+            style="@style/SpaceStyle"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btxtgain1" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bbs1"
+            style="@style/SpaceStyle"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/btxtbs1" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+    >
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bgain2"
+            style="@style/SpaceStyle"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btxtgain2" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bbs2"
+            style="@style/SpaceStyle"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/btxtbs2" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+    >
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bgain3"
+            style="@style/SpaceStyle"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btxtgain3" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bbs3"
+            style="@style/SpaceStyle"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/btxtbs3" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+    >
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bgain4"
+            style="@style/SpaceStyle"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btxtgain4" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bbs4"
+            style="@style/SpaceStyle"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/btxtbs4" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+    
+<!--     <LinearLayout -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:orientation="horizontal" -->
+<!--     > -->
+<!--         <Space -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="match_parent" -->
+<!--             android:layout_weight="1" /> -->
+<!--         <Button -->
+<!--             android:id="@+id/bgain5" -->
+<!--             style="@style/SpaceStyle" -->
+<!--             android:layout_width="200dp" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:text="@string/btxtgain5" /> -->
+<!--         <Space -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="match_parent" -->
+<!--             android:layout_weight="1" /> -->
+<!--         <Button -->
+<!--             android:id="@+id/bbs5" -->
+<!--             style="@style/SpaceStyle" -->
+<!--             android:layout_width="350dp" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:layout_gravity="start" -->
+<!--             android:text="@string/btxtbs5" /> -->
+<!--         <Space -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="match_parent" -->
+<!--             android:layout_weight="1" /> -->
+<!--     </LinearLayout> -->
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+    >
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/bret2game"
+            style="@style/SpaceStyle"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btxtret2game" />
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+</GridLayout>

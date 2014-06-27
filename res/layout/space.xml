@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="@drawable/spacebackground"
+    >
+
+    <TextView
+        android:id="@+id/font_space"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="53dp"
+        android:text="@string/appName"
+        android:textSize="40sp"
+        android:textColor="#ffffff" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp" >
+
+        <Button
+            android:id="@+id/bStartGame"
+            style="@style/SpaceStyle"
+            android:text="@string/startGame" />
+
+        <Button
+            android:id="@+id/bTutorials"
+            style="@style/SpaceStyle"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight = "22dp"
+            android:text="@string/tutorials" />
+
+    </LinearLayout>
+    
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Space Radar Defenders</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="appName">Space Radar Defenders</string>
+    <string name="startGame">Start  Game</string>
+    <string name="tutorials">   Tutorials   </string>
+    <string name="begin_tutorial">Begin Tutorial</string>
+    <string name="welcome">Welcome to the Tutorial!</string>
+    <string name="reward1">Reward 1</string>
+    <string name="reward2">Reward 2</string>
+    <string name="next">Next</string>
+    <string name="ttxt1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis mauris purus, quis posuere eros pulvinar id. Mauris sit amet lacinia turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget turpis libero. Cras nisi lacus, rhoncus quis ante vel, tempus posuere nunc. Phasellus ut imperdiet quam. Nulla consequat, sapien nec lacinia iaculis, nisi lacus sollicitudin urna, eget accumsan augue urna non risus. Suspendisse faucibus elementum aliquet. Pellentesque hendrerit fringilla arcu, at rhoncus neque ultricies a. Maecenas fermentum tortor eu elit euismod, in volutpat justo semper. Aliquam ante a ante, pharetra id urna scelerisque, cursus egestas justo. Aliquam condimentum rutrum enim, sit amet viverra orci congue non. Cras nunc erat, fringilla et dui ut, vehicula condimentum neque. Fusce iaculis eros vestibulum dapibus aliquam. Phasellus varius elementum velit, vitae pulvinar purus posuere sit amet.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis mauris purus, quis posuere eros pulvinar id. Mauris sit amet lacinia turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget turpis libero. Cras nisi lacus, rhoncus quis ante vel, tempus posuere nunc. Phasellus ut imperdiet quam. Nulla consequat, sapien nec lacinia iaculis, nisi lacus sollicitudin urna, eget accumsan augue urna non risus. Suspendisse faucibus elementum aliquet. Pellentesque hendrerit fringilla arcu, at rhoncus neque ultricies a. Maecenas fermentum tortor eu elit euismod, in volutpat justo semper. Aliquam ante a ante, pharetra id urna scelerisque, cursus egestas justo. Aliquam condimentum rutrum enim, sit amet viverra orci congue non. Cras nunc erat, fringilla et dui ut, vehicula condimentum neque. Fusce iaculis eros vestibulum dapibus aliquam. Phasellus varius elementum velit, vitae pulvinar purus posuere sit amet.</string>
+    <string name="quiz">Begin Quiz</string>
+    <string name="cancel">Cancel</string>
+    <string name="q1quest1">The answer to this question is 3.</string>
+    <string name="ttext2">Radar (acronym for RAdio Detection And Ranging) is an object-detection system that uses radio waves to determine the range, altitude, direction, or speed of objects. It can be used to detect aircraft, ships, spacecraft, guided missiles, motor vehicles, weather formations, and terrain. The radar dish or antenna transmits pulses of radio waves or microwaves that bounce off any object in their path. The object returns a tiny part of the wave\'s energy to a dish or antenna that is usually located at the same site as the transmitter.\n\nRadar was secretly developed by several nations before and during World War II. The term RADAR itself, not the actual development, was coined in 1940 by the United States Navy as an acronym for RAdio Detection And Ranging. The term radar has since entered English and other languages as the common noun radar, losing all capitalization.\n\nThe modern uses of radar are highly diverse, including air traffic control, radar astronomy, air-defense systems, antimissile systems; marine radars to locate landmarks and other ships; aircraft anticollision systems; ocean surveillance systems, outer space surveillance and rendezvous systems; meteorological precipitation monitoring; altimetry and flight control systems; guided missile target locating systems; and ground-penetrating radar for geological observations. High tech radar systems are associated with digital signal processing and are capable of extracting useful information from very high noise levels.\n\nOther systems similar to radar make use of other parts of the electromagnetic spectrum. One example is &quot;lidar&quot;, which uses visible light from lasers rather than radio waves.</string>
+    <string name="quest2">What is an object-detection system that uses radio waves to determine the range, altitude, direction, or speed of objects?</string>
+    
+    <string name="btxtgain1">Gain Level 1</string>
+    <string name="btxtgain2">Gain Level 2</string>
+    <string name="btxtgain3">Gain Level 3</string>
+    <string name="btxtgain4">Gain Level 4</string>
+    <string name="btxtgain5">Gain Level 5</string>
+    <string name="btxtbs1">Beam Steering Level 1</string>
+    <string name="btxtbs2">Beam Steering Level 2</string>
+    <string name="btxtbs3">Beam Steering Level 3</string>
+    <string name="btxtbs4">Beam Steering Level 4</string>
+    <string name="btxtbs5">Beam Steering Level 5</string>
+    <string name="tvtxtRadarTut">Radar Tutorials</string>
+    <string name="btxtret2game">Return To Game</string>
+    
+    <string name="tutgain1">An antenna is a passive device that is meant to radiate electromagnetic waves. The vast majority of antennas are designed to operate at radio frequencies (3 kHz to 300 GHz). One of the key attributes of an antenna is its directional characteristics. If an antenna radiates equally in all directions, we say this is an “omni-directional antenna” or an “isotropic radiator”. We often define the directionality of an antenna with respect to the isotropic radiator in a unit called dBi (decibels with respect to isotropic). For example, an antenna with a gain of 3 dBi will radiate 3 dB (about 2 times) more power in a given direction than an omnidirectional antenna.</string>
+    <string name="tutgain2">There are several ways designers may increase the directional characteristics of an antenna. One way is to modify the geometry of the antenna such that it directs the energy only in certain directions. Parabolic reflector antennas are common high-gain antennas. Most people think that the dish structure is an antenna. In reality, the antenna is only the small device at the edge of the dish, and the parabola is simply a surface designed to reflect the signal in a given direction. Typical horn antennas have gain of around 10-20 dBi, and parabolic reflector antennas that are very large compared to the wavelength of operation may reach above 80 dBi or 100,000,000 times more power at a given point than a isotropic antenna!</string>
+    <string name="tutgain3">Another second way designers may increase the directional characteristics of an antenna is to not just use a single antenna. By placing multiple antennas on a plane, with the primary beams in identical directions, the gain can be increased further. These are technically now “antenna arrays” but may often be analyzed as if they were an individual antenna. Some antenna arrays are made of hundreds or even thousands of elements. One famous antenna array seen frequently in movies is even called the “Very Large Array”!</string>
+    <string name="tutgain4">Since increasing the dimension of the antenna or reflector with respect to the wavelength and increasing the number of elements are the primary ways that designers increase gain, very high gain antennas tend to become very large. On the other hand, designers can try other tricks such as increasing the dielectric constant of the substrate the antenna, or capacitively-loading the antenna to decrease the resonant frequency for a given size of antenna. These are unlikely to cause orders of magnitude in changes, but for arrays that become prohibitively large a factor of 2 decrease in size can make quite a big difference.</string>
+    <string name="tutgain5">This is the tutorial for Gain Level 5.</string>
+    <string name="tutbs1">The simplest way to move an antenna’s primary direction of radiation (main lobe) is to mechanically move the radiator. This mechanical beam steering is slow but very intuitive to operate. Many movies show antennas rotating in a circle or sonar pings on a map giving indication of an object of interest. In reality mechanical steering may be useful for some applications such as radio astronomy, but is simply too slow for high-gain antenna arrays designed to detect incoming aircraft.</string>
+    <string name="tutbs2">To learn why mechanical steering is too slow for many applications, consider this: If an antenna or antenna array has a gain of 30 dBi, this means that it transmits or receives 1000 times the power of an isotropic antenna at the point of maximum gain. However, assuming the efficiencies are the same, it also means that it can only look at 1/1000 of the surroundings at a given point in time. This means that it must move quickly to view all of the surroundings before an object of interest can move. This becomes increasingly important with even higher-gain systems.</string>
+    <string name="tutbs3">Some advantages of multiple-antenna arrays are increased gain, modularity, and simple, repetitive design. However, one of the greatest advantages comes in the ability to electronically-steer the main lobe. By changing the phases of the signals fed to the individual antennas, the beam may be steered in a given direction. Since electronic signals may operate at much higher speeds than the mechanical motors causing rotation of an array, electronic beam steering occurs much faster than mechanical beam steering, and allows for detection of objects not possible for mechanical beam steering systems.</string>
+    <string name="tutbs4">In real systems, there are great tradeoffs in system gain, operational frequency, size, bandwidth and scan rate with respect to the accuracy and precision of the system. However, many of these will be fixed by the application. For example, if the incoming objects are expected to have a “radiation cross section” (effective area that may be reflected back) of 1,000 m^2 and will travel at 10 m/s (a very large, slow object like a ship), a slow scan rate and lower gain may be acceptable. If the object has a 10 m^2, and will travel at 10,000 m/s (a fast small object like a rocket), high gain and fast scan rate will be necessary.</string>
+    <string name="tutbs5">This is the tutorial for Beam Steering Level 5.</string>
+    
+    <string name="qgain1">What do we call an antenna that radiates equally in all directions?</string>
+    <string name="qgain2">What is the purpose of a parabolic dish?</string>
+    <string name="qgain3">What is a group of antennae designed to work together in forming a radiation pattern?</string>
+    <string name="qgain4">Which of these is not a technique designers use to improve antenna performance, as just listed?</string>
+    <string name="qgain5">This question is about Gain Level 5.</string>
+    <string name="qbs1">What is the simplest way to steer an antenna\'s direction of radiation?</string>
+    <string name="qbs2">If an antenna array has a 30dB gain...</string>
+    <string name="qbs3">How can antenna arrays be electronically steered?</string>
+    <string name="qbs4">True or False: Different types of radar systems are necessary in different applications.</string>
+    <string name="qbs5">This question is about Beam Steering Level 5.</string>
+    
+</resources>
